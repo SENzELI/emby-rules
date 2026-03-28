@@ -1,0 +1,10 @@
+# Name: emby-shadowrocket
+# Author: Symsc
+# Updated: 2026-03-28
+# Format: Shadowrocket rule list
+
+DOMAIN-SUFFIX,lite.cn2gias.uk
+DOMAIN-SUFFIX,emos.best
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepoint.cn
+DOMAIN-SUFFIX,emosstore.sbs
